@@ -1,7 +1,7 @@
 # site settings
 title: The Best and Safest Way to Explore Egypt
 subtitle: by Everywhere Tours Egypt
-email: mohamedtamer92@gmail.com
+email:
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/travelagency" # the subpath of your site, e.g. /blog
 url: "https://fattouh92.github.io" # the base hostname & protocol for your site
