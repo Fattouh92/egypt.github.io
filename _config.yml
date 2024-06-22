@@ -6,12 +6,12 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/travelagency" # the subpath of your site, e.g. /blog
 url: "https://fattouh92.github.io" # the base hostname & protocol for your site
 author: Everywhere Tours Egypt
-street_address: Südtirolerstraße 27
-city: Linz
-state: Upper Austria
-zip_code: 4020
-country: Austria
-phone: +43 664 4787
+street_address:
+city: Cairo
+state:
+zip_code:
+country: Egypt
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
